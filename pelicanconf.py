@@ -9,16 +9,17 @@ SITENAME = 'ILS Doctoral Research Forum'
 SITEURL = 'https://ils-drf.github.io'
 SITESUBTITLE = """<br>
                   <br>
-                  <br><font size="5">ILS Doctoral Research Forum</font><br> <br>   
-                  <br> <font size="4">**TIME TBD**, 2021</font>
+                  <br> <font size="6">ILS Doctoral Research Forum</font><br> <br>   
+                  <br> <font size="5">Nov. 12, 2021</font>
                   <br>
-                  <br> <font size="4">ILS, Luddy Hall</font>
+                  <br> <font size="5">ILS, Luddy Hall</font>
                   <br>
                   <br>
-                  <br> 700 N. Woodlawn Ave
-                  <br> Bloomington, IN, USA"""
+                  <br> <font size="4">700 N. Woodlawn Ave</font>
+                  <br> <font size="4">Bloomington, IN</font>
+                  <br> <font size="4">USA</font>"""
 
-SITELOGO = "/images/profile_3.png"
+SITELOGO = "/images/profile.png"
 # FAVICON = "/images/favicon.ico"
 BROWSER_COLOR = '#333333'
 
@@ -58,7 +59,6 @@ LINKS_IN_NEW_TAB = 'external'
 
 DEFAULT_PAGINATION = 5
 
-
 RELATIVE_URLS = True
 
 MENUITEMS = (
@@ -66,7 +66,6 @@ MENUITEMS = (
             ('CALL FOR PAPERS', "/cfp"),
             ('DATES', "/dates"),
              # ('CONFERENCE SCHEDULE', "/schedule")
-            # ('Blog', '/blog/')
              )
 GITHUB_URL = 'https://github.com/ils-drf/ils-drf.github.io-src'
 
@@ -78,9 +77,9 @@ LOAD_CONTENT_CACHE = False
 FILENAME_METADATA = '(?P<title>.*)'
 DELETE_OUTPUT_DIRECTORY = False
 
-OUTPUT_PATH = 'output/blog'
-INDEX_SAVE_AS = 'blog/index.html'
-INDEX_URL = 'blog/'
+OUTPUT_PATH = 'output'
+INDEX_SAVE_AS = 'index.html'
+
 # # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -88,14 +87,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# LINKS = ((ILS, https://ils.indiana.edu/index.html)
+#   )
 
-# Blogroll
-# LINKS = (('Pelican', 'https://getpelican.com/'),
-#          ('Python.org', 'https://www.python.org/'),
-#          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-#          ('You can modify those links in your config file', '#'),)
-
-# Social widget
-
-
-# Uncomment following line if you want document-relative URLs when developing

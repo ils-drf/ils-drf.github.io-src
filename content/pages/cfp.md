@@ -35,11 +35,4 @@ There is up to two submissions that a participant can make.
 2. The doctoral student must be the primary author of any co-authored submission.
 
 
-After registration, please email your abstract(s) to **TBD**@iu.edu by 11:59 p.m. **TBD**, 2021.
-
-
-
-
-
-
 <br>

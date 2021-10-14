@@ -25,13 +25,15 @@ Presentation time will vary depending on the number of presentations. At the tim
 The poster session hinges on how many participates are willing to attend. So please state if you would like to
 present a poster when submitting your abstract. -->
 
-My fellows, 💪💪[REGISTER NOW](https://forms.gle/JfzJqaDEk3be8oP97)💪💪!
+My fellows, 💪💪[submit your presentation topic here](https://forms.gle/JfzJqaDEk3be8oP97)💪💪!
 
+
+[Email us](mailto:hw56@iu.edu) if you have any questions.
 
 <br>
 
 ### News
 
-- Sep. 8, 2021. Call for Participation and registration starts.
+- Sep. 8, 2021. 1st CFP and open submission.
 
 <br>

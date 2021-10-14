@@ -6,11 +6,17 @@ save_as: dates.html
 
 ### Important dates:
 
-- Sep. 8, Call for Participation and registration starts.
+- Sep. 8, 1st CFP and open submission.
 
-- Nov. 5, Registration closes; forum schedule released.
+- TBD, 2st CFP.
 
-- Nov. 12, Conference starts at 10: 00 a.m. local time.
+- Nov. 1, Submission deadline.
+
+- Nov. 5, Forum schedule release.
+
+- Nov. 12, Forum day.
+
+<!-- starts at 10: 00 a.m. local time -->
 
 
 <br>

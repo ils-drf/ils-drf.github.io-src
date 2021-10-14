@@ -27,7 +27,7 @@ It should include:
 
 4. some mention of your (preliminary) result and conclusions, if applicable.
 
-There are up to two submissions that a participant can make. Only one of them is eligible for prizes if multiple submissions are made.
+There are up to two submissions that a participant can make. Only one of them is eligible for prizes if multiple submissions were made.
 
 ### Eligibility
 

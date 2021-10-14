@@ -8,8 +8,6 @@ save_as: dates.html
 
 - Sep. 8, 1st CFP and open submission.
 
-- TBD, 2st CFP.
-
 - Nov. 1, Submission deadline.
 
 - Nov. 5, Forum schedule release.

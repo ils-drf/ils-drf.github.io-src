@@ -8,7 +8,7 @@ save_as: index.html
 
 <br>
 
-ILS-DRF 2021 will be held on Nov. 12, 2021. The forum provides a great opportunity for doctoral students to present their ongoing research and discuss their ideas with peers and faculty members. To maximally reach out to the audience and keep us healthy, we finally decided to hold the event fully online through Zoom.
+ILS-DRF 2021 will be held on 11:00 a.m., Nov. 12, 2021, local time. The forum provides a great opportunity for doctoral students to present their ongoing research and discuss their ideas with peers and faculty members. To maximally reach out to the audience and keep us healthy, we finally decided to hold the event fully online through Zoom.
 
 <!-- The forum is expected to be held in-person to realize social activities and personal contacts, which are so
 important in our professional and scientific lives. All participants are expected to follow
@@ -28,12 +28,16 @@ present a poster when submitting your abstract. -->
 My fellows, 💪💪[submit your presentation topic here](https://forms.gle/JfzJqaDEk3be8oP97)💪💪!
 
 
-[Email us](mailto:hw56@iu.edu) if you have any questions.
+Please [email us](mailto:hw56@iu.edu) if you have any questions.
 
 <br>
 
 ### News
 
 - Sep. 8, 2021. 1st CFP and open submission.
+
+- Oct. 10, 2021. We are pleased to announce Dr. Andrew Asher as the keynote speaker🎉🎉🎉!
+
+- Sep. 14, 2021. 2nd CFP.
 
 <br>
